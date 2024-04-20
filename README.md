@@ -11,3 +11,9 @@ Add-Migration Initial
 ```
 Update-database
 ```
+### Documentación 📋
+Se implemento la herramienta Swagger para el fácil acceso a las operaciones.
+
+### Interfaz 
+Se construyo un aplicativo web en Angular como complemento, este es el repositorio:
+https://github.com/sebsnaranjo/usuarioAngular
